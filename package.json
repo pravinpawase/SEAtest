@@ -1,0 +1,14 @@
+{
+  "name": "webserver",
+  "version": "1.1.1",
+  "description": "simple webserver",
+  "main": "webserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PRavin",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
